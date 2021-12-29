@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nauseouswave
 - 👀 I’m interested in coding, gaming and art.
-- 🌱 I’m currently learning coding and am still not graduated.
+- 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on coding platforms and bots!
 - 📫 How to reach me NauseousWave#8954 on discord!
 
