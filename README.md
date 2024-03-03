@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring developer.</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [NauseousBot](https://github.com/Nauseouswave/nauseousbot)<br>
+- 🔭 I’m currently working on [NauseousBot](https://github.com/Nauseouswave/nauseousbot) and [GradeMaster](https://github.com/Nauseouswave/GPA-Calculator)<br>
 
 - 🌱 I’m currently learning **python and JS**
 
